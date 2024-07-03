@@ -1,6 +1,7 @@
 *_cpp
 *_js
 trusted_setup
+proof
 
 *.r1cs
 *.sym
