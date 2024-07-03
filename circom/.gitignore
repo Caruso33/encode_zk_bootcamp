@@ -1,0 +1,8 @@
+*_cpp
+*_js
+trusted_setup
+
+*.r1cs
+*.sym
+*.json
+*.sol
